@@ -1,2 +1,3 @@
-# NICProber
-A small command line tool that pulls the ethernet adapter connection speed and shows it on your RMM dashboard. Or you can include this in a much larger project you are creating to check for and resolve IT issues.
+## NICProber
+
+Checks ethernet adapter status is reporting 100/1000, or gigabit, instead of 10/100. The latter problem is more common than you think, and as simple to cause as using an old cat5 (not cat5e) cable or a "FastEthernet" switch. If your client, and the user of the workstation, is older, they may have a box of "computer stuff" tucked away somewhere, and in that is old cables and other outdated crap. Without your knowledge, they will connect an old Cat5 cable. A client you're onboarding, you may not have noticed, is using an old router or switch that does not support gigabit. 10/100 switches are still being sold today, and a client or customer, may accidentally go for a cheaper switch without realizing the serious network performance problem they will be creating. You will know almost immedietely if a similar scenario happens to one of your clients that you've deployed this script to.
