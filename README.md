@@ -14,7 +14,7 @@ Screenshot of our tools return when using Solarwinds: **URL-PLACEHOLDER**
 ---
 #### 👉🏼 Follow our projects and related discussions on the Invise Labs Discord: https://discord.gg/gK7NQ7h
 #### 👉🏼 Follow @MikeLierman on Twitter: https://twitter.com/MikeLierman
-#### 👉🏼 Visit [InviseLabs.com](https://InviseLabs.com/):- IT and Technician Software, designed to make your life as an IT professional easier.
+#### 👉🏼 Visit [InviseLabs.com](https://InviseLabs.com/) – IT and Technician Software, designed to make your life as an IT professional easier.
 ---
 
 .
