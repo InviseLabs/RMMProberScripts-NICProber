@@ -21,5 +21,4 @@ Screenshot of our tools return when using Solarwinds: **URL-PLACEHOLDER**
 .
 
 ## Placeholder - Information Coming Soon
-.
-.
+. . .
